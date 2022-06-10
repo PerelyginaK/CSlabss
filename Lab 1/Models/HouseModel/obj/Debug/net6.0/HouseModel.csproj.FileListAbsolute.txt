@@ -1,0 +1,12 @@
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\bin\Debug\net6.0\HouseModel.deps.json
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\bin\Debug\net6.0\HouseModel.dll
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\bin\Debug\net6.0\HouseModel.pdb
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\obj\Debug\net6.0\HouseModel.csproj.AssemblyReference.cache
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\obj\Debug\net6.0\HouseModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\obj\Debug\net6.0\HouseModel.AssemblyInfoInputs.cache
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\obj\Debug\net6.0\HouseModel.AssemblyInfo.cs
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\obj\Debug\net6.0\HouseModel.csproj.CoreCompileInputs.cache
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\obj\Debug\net6.0\HouseModel.dll
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\obj\Debug\net6.0\refint\HouseModel.dll
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\obj\Debug\net6.0\HouseModel.pdb
+C:\Users\perel\Desktop\CSlabs\Lab 1\Models\HouseModel\obj\Debug\net6.0\ref\HouseModel.dll

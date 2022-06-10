@@ -1,0 +1,12 @@
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\bin\Debug\net6.0\NetworkModels.deps.json
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\bin\Debug\net6.0\NetworkModels.dll
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\bin\Debug\net6.0\NetworkModels.pdb
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\obj\Debug\net6.0\NetworkModels.csproj.AssemblyReference.cache
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\obj\Debug\net6.0\NetworkModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\obj\Debug\net6.0\NetworkModels.AssemblyInfoInputs.cache
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\obj\Debug\net6.0\NetworkModels.AssemblyInfo.cs
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\obj\Debug\net6.0\NetworkModels.csproj.CoreCompileInputs.cache
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\obj\Debug\net6.0\NetworkModels.dll
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\obj\Debug\net6.0\refint\NetworkModels.dll
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\obj\Debug\net6.0\NetworkModels.pdb
+C:\Users\perel\Desktop\CSlabs\Lab 2\Models\NetworkModels\obj\Debug\net6.0\ref\NetworkModels.dll

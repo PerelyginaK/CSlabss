@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HouseForm/1.0.0": {
+        "dependencies": {
+          "HouseModel": "1.0.0"
+        },
+        "runtime": {
+          "HouseForm.dll": {}
+        }
+      },
+      "HouseModel/1.0.0": {
+        "runtime": {
+          "HouseModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HouseForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HouseModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\bin\Debug\net6.0\AutoModel.deps.json
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\bin\Debug\net6.0\AutoModel.dll
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\bin\Debug\net6.0\AutoModel.pdb
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\obj\Debug\net6.0\AutoModel.csproj.AssemblyReference.cache
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\obj\Debug\net6.0\AutoModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\obj\Debug\net6.0\AutoModel.AssemblyInfoInputs.cache
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\obj\Debug\net6.0\AutoModel.AssemblyInfo.cs
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\obj\Debug\net6.0\AutoModel.csproj.CoreCompileInputs.cache
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\obj\Debug\net6.0\AutoModel.dll
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\obj\Debug\net6.0\refint\AutoModel.dll
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\obj\Debug\net6.0\AutoModel.pdb
+C:\Users\perel\Desktop\CSlabs\Lab 4\Models\AutoModel\obj\Debug\net6.0\ref\AutoModel.dll
