@@ -31,8 +31,8 @@ namespace NetworkForm
                 double.Parse(SpeedChildBox.Text));
 
             Form1 form = new Form1(network, networkChild);
-            this.Hide();
             form.ShowDialog();
+            Close();
         }
     }   
 }
